@@ -18,7 +18,7 @@ While I'm still in the process of honing my data science skills, here are some o
 
 - **Programming Languages:** Python, R, SAS
 - **Data Analysis:** Pandas, Matplotlib, Seaborn
-- **Statistical Analysis:** Hypothesis testing, Regression analysis
+- **Statistical Analysis:** Hypothesis testing, Regression analysis, clustering
 - **Machine Learning:** Exploring foundational algorithms
 - **Version Control:** Git
 
