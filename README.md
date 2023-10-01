@@ -1,4 +1,4 @@
-# ElishaD17.github.io
+Elisha Damor Portfolio
 # Welcome to My Data Science Journey!
 
 ## About Me
