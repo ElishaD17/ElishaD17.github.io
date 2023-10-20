@@ -91,7 +91,7 @@ Devi Ahilya Vishwa Vidhyalaya | 2014-2017
 Relevant Coursework: Statistics, Management  
 GPA: 3.6/4.0
 
-## Contact
+## Let's Connect!
 I'm always open to discussions, collaborations, and learning opportunities. Feel free to reach out to me via:
 
 - Portfolio: [elishad17.github.io](https://elishad17.github.io)
