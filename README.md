@@ -1,4 +1,4 @@
-# Elisha Damor - Data Science Portfolio
+# Portfolio
 
 Welcome to My Data Science Journey!
 
