@@ -4,8 +4,6 @@
 Welcome to My Data Science Journey!
 </p>
 
-
-![github_cover_banner](WhatsApp Image 2023-10-21 at 1.23.08 PM (4).jpg)
 <div align="centre">
 Hello, I'm Elisha Damor, a dedicated data science enthusiast currently pursuing a degree in Business Analytics with a focus on data science. 
 passionate about the potential of data to drive insights and inform decision-making. With a strong foundation in Data Science and a growing interest in data 
