@@ -51,7 +51,7 @@ My technical repertoire spans across Python, SQL, R, and SAS, complemented by a 
 </div>
 <br>
 
-<h2 style="color: #44AEFB">📊 Projects</h2>
+<h2 style="color: Black">📊 Projects</h2>
 
  **Online Retail Analysis**
     - **Description:** Understanding Consumer Behavior and Advertisement Effectiveness.
