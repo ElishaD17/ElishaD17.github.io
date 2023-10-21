@@ -80,6 +80,9 @@ July 2017 - November 2022
 **Entrepreneur | Print on Demand/Sustainable Clothing Venture**  
 August 2021 - December 2022
 
+Entrepreneurship | WootOut-website and mobile application( let’s you connect with people in same area) 
+2024
+
 ## Education
 Master of Science (MS) in Business Analytics, Specialization: Data Science**  
 DePaul University | Expected Graduation: November 2024  
