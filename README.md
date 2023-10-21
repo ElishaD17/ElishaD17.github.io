@@ -5,7 +5,7 @@ Welcome to My Data Science Journey!
 </p>
 
 
-![github_cover_banner](https://path_to_your_banner_image_here)
+![github_cover_banner](WhatsApp Image 2023-10-21 at 1.23.08 PM (4).jpeg)
 <div align="centre">
 Hello, I'm Elisha Damor, a dedicated data science enthusiast currently pursuing a degree in Business Analytics with a focus on data science. 
 passionate about the potential of data to drive insights and inform decision-making. With a strong foundation in Data Science and a growing interest in data 
@@ -107,7 +107,7 @@ My technical repertoire spans across Python, SQL, R, and SAS, complemented by a 
 <div align="left">
     
 - **Business Analyst | Webcraft-IT**  
-  ![Webcraft-IT Image](https://path_to_your_image_here)
+  ![Webcraft-IT Image](OIP.jpg)
   
   Played a vital role in projects, improving efficiency by 15% and reducing project timelines by 10%.
   Proficiently enhanced database design and API development, leading to a 20% boost in database efficiency and a 12% improvement in API functionality.
@@ -116,8 +116,9 @@ My technical repertoire spans across Python, SQL, R, and SAS, complemented by a 
   performance and staff training.
   July 2017 - November 2022
 
-- **Entrepreneur | Print on Demand/Sustainable Clothing Venture**  
-  ![Sustainable Clothing Venture Image](https://path_to_your_image_here)
+- **Entrepreneur | Print on Demand/Sustainable Clothing Venture**
+  ![Sustainable Clothing Venture Image](EM black.webp)
+  ![Sustainable Clothing Venture Image](1 - Copy (2).png)
   
   Founded a profitable online sustainable clothing store, reducing overhead by 50% and increasing revenue by 100%. Managed daily operations, supervised and 
   trained a team of 5 employees with full retention, and executed successful product promotion across various channels. Oversaw the entire product development 
@@ -126,7 +127,7 @@ My technical repertoire spans across Python, SQL, R, and SAS, complemented by a 
   August 2021 - December 2022
   
 - **Entrepreneurship | WootOut-Website and Mobile Application**  
-  ![WootOut Image](https://path_to_your_image_here)  
+  ![WootOut Image](2 - Copy.png)  
   "Let's you connect with people in the same area"  
   2014 - 2015
 
