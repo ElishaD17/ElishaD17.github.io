@@ -125,7 +125,8 @@ My technical repertoire spans across Python, SQL, R, and SAS, complemented by a 
   August 2021 - December 2022
   
 - **Entrepreneurship | WootOut-Website and Mobile Application**  
-  ![WootOut Image](2.jpg)  
+  ![WootOut Image](2.jpg)
+  
   "Let's you connect with people in the same area"  
   2014 - 2015
 
