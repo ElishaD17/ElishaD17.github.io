@@ -1,10 +1,18 @@
-<h1 style="color: #44AEFB;"> Elisha Damor </h1>
+<h1 style="color: #44AEFB;"> Portfolio
+</h1>
+<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
+Welcome to My Data Science Journey!
+</p>
+
 
 ![github_cover_banner](https://path_to_your_banner_image_here)
+<div align="centre">
+Hello, I'm Elisha Damor, a dedicated data science enthusiast currently pursuing a degree in Business Analytics with a focus on data science. 
+passionate about the potential of data to drive insights and inform decision-making. With a strong foundation in Data Science and a growing interest in data 
+science, I'm excited to share my progress and projects as I work towards becoming a data scientist.
+My technical repertoire spans across Python, SQL, R, and SAS, complemented by a strong track record of fostering efficient collaboration in diverse project teams.
 
-<p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;">
-    A Business Analyst with extensive professional experience and a deep-rooted foundation in data science and business analytics. With a fervent drive to harness data for actionable insights, I've been pivotal in driving business transformations and performance optimizations. My technical repertoire spans across Python, SQL, R, and SAS, complemented by a strong track record of fostering efficient collaboration in diverse project teams.
-</p>
+</div>
 <br>
 
 <h2 style="color: #44AEFB">⚙️ Skills & Technologies</h2>
