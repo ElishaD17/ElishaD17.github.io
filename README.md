@@ -12,14 +12,16 @@ I'm particularly interested in Machine Learning and Deep Learning, and I'm eager
 
 ## Skills and Tools
 While I'm still in the process of honing my data science skills, here are some of the tools and technologies I'm actively working with:
-
-- **Programming Languages**: Python, SQL, R, SAS
-- **Data Analysis**: Pandas, Matplotlib, Seaborn
-- **Statistical Analysis**: Hypothesis testing, Regression analysis, clustering
-- **Machine Learning**: Scikit-Learn, XGBoost
-- **Database**: SQL Server, MySQL
-- **Data Science and Miscellaneous Technologies**: Tableau, Power BI, MS Excel, AWS, Snowflake, Business Requirements Gathering, Communication & Presentation, Team Collaboration, Problem-Solving, Critical Thinking
-- **Project Management Tools**: Jira
+- Programming Languages: Python, SQL, R, SAS
+- Big Data and Machine Learning: Data Analysis Tools: Pandas, Matplotlib, Seaborn, 
+- Machine Learning Libraries: Scikit-Learn,XGBoost, TensorFlow, Neural Networks, Clustering, Decision Trees, Random Forest
+- Statistical Analysis: Hypothesis Testing, Regression Analysis, Time Series Analysis, A/B Testing, ANOVA 
+- Big Data Technologies:Hadoop, Spark, Snowflake, Database Management Systems: SQL Server, MySQL
+- Data Visualization & BI Tools: Tableau, Power BI, MS Excel, ggplot2 
+- Cloud Platforms: AWS, Google Cloud Platform, Microsoft Azure
+- Data Processing & ETL: Data Cleaning, Data Wrangling, Data Preprocessing, ETL Processes,Design Thinking, Agile development methodology
+- Other Relevant Skills: Business Requirements Gathering, Communication & Presentation, Team Collaboration, Problem-Solving, Critical Thinking, Web Scraping.
+- Project Management Tools:Jira
 
 ## Projects
 
