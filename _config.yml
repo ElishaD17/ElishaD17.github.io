@@ -1,11 +1,11 @@
 # Site settings
-title: Elisha Damore
+title: Elisha Damor
 email: edamor@depaul.edu
 description: >-
   Analytical Problem Solver
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/ElishaD17"
-profile_picture: WhatsApp-Image-2023-10-21-at-1.23.08-PM-_7_.png # relative path to your profile picture
+profile_picture: WhatsApp Image 2023-10-21 at 1.23.08 PM (4).jpeg # relative path to your profile picture
 
 # Build settings
 theme: jekyll-theme-minimal
