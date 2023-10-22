@@ -131,7 +131,7 @@ My technical repertoire spans across Python, SQL, R, and SAS, complemented by a 
 <h2 style="color: #44AEFB">🌟 Experience </h2>
 <div align="left">
     
-- **Business Analyst | Webcraft-IT**  
+ **Business Analyst | Webcraft-IT**  
   ![Webcraft-IT Image](OIP.jpg)
   
   Played a vital role in projects, improving efficiency by 15% and reducing project timelines by 10%.
@@ -141,7 +141,7 @@ My technical repertoire spans across Python, SQL, R, and SAS, complemented by a 
   performance and staff training.
   July 2017 - November 2022
 
-- **Entrepreneur | Print on Demand/Sustainable Clothing Venture**
+ **Entrepreneur | Print on Demand/Sustainable Clothing Venture**
   ![Sustainable Clothing Venture Image](EM black.jpg)
   ![Sustainable Clothing Venture Image](1.jpg)
   
@@ -151,7 +151,7 @@ My technical repertoire spans across Python, SQL, R, and SAS, complemented by a 
   months.
   August 2021 - December 2022
   
-- **Entrepreneurship | WootOut-Website and Mobile Application**  
+ **Entrepreneurship | WootOut-Website and Mobile Application**  
   ![WootOut Image](2.jpg)
   
   "Let's you connect with people in the same area"  
