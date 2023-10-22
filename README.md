@@ -74,7 +74,7 @@ While I'm still in the process of honing my data science skills, here are some o
 ### Real Estate Valuation in 1970s Boston
 
 - Leveraging Python libraries like Pandas, Numpy, Seaborn, Plotly, Matplotlib, and Scikit-learn to analyze real estate valuation in 1970s Boston.
-- [Link to Project Repository](Link to Project Repository)
+  https://github.com/ElishaD17/Real-Estate-Valuation-in-1970s-Boston
 
 ## Professional Experience
 **Business Analyst | Webcraft-IT**  
