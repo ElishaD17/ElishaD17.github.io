@@ -34,27 +34,27 @@ While I'm still in the process of honing my data science skills, here are some o
 ### Online Retail Analysis: Understanding Consumer Behavior and Advertisement Effectiveness
 
 - Analyzing customer behavior and the effectiveness of advertisements in an online retail context using SQL queries in R.
-  (https://github.com/ElishaD17/Online-Retail-Analysis)
+  [Link to Project Repository](https://github.com/ElishaD17/Online-Retail-Analysis)
 
 ### US Arrests Clustering: Exploring Crime Rates with K-Means and Hierarchical Techniques
 
 - Utilizing K-Means and Hierarchical clustering techniques to explore crime rates in the United States using R.
-  (https://github.com/ElishaD17/US-Arrests-Analysis)
+  [Link to Project Repository](https://github.com/ElishaD17/US-Arrests-Analysis)
 
 ### Optimizing Citi Bike Stocking: Descriptive, Prescriptive & Predictive Analytics
 
 - Applying descriptive, prescriptive, and predictive analytics in R to maximize bike trips for Citi Bike.
-  (https://github.com/ElishaD17/Optimizing-Citi-Bike-Stocking)
+  [Link to Project Repository](https://github.com/ElishaD17/Optimizing-Citi-Bike-Stocking)
 
 ### Analyzing Salary, Construction Hours, and Mortality Rate Using Regression 
 
 - Focuses on regression analysis to understand various factors influencing salary, construction hours, and mortality rates using Minitab & Excel Analytics.
-  (https://github.com/ElishaD17/Analyzing-Salary-Construction-Hours-and-Mortality-Rate-Using-Regression)
+  [Link to Project Repository](https://github.com/ElishaD17/Analyzing-Salary-Construction-Hours-and-Mortality-Rate-Using-Regression)
 
 ### US Art Products Sales Margin Growth Analysis usingTableau
 
 - Analyzing Sales, Margin, and Growth for Art Products in the US using Tableau
-  https://github.com/ElishaD17/US-Art-Products-Sales-Margin-Growth-Analysis-in-Tableau
+  [Link to Project Repository]https://github.com/ElishaD17/US-Art-Products-Sales-Margin-Growth-Analysis-in-Tableau
 
 ### Employee Flight Data Analysis
 
@@ -69,17 +69,17 @@ While I'm still in the process of honing my data science skills, here are some o
 ### Decoding Airbnb Pricing Patterns in Chicago
 
 - Using regression analysis and machine learning insights in SAS to understand Airbnb pricing patterns in Chicago.
-  https://github.com/ElishaD17/Decoding-Airbnb-Pricing-Patterns-in-Chicago
+  [Link to Project Repository]https://github.com/ElishaD17/Decoding-Airbnb-Pricing-Patterns-in-Chicago
 
 ### Data Analysis of COVID-19 Trends in Wisconsin
 
 - Analyzing COVID-19 trends in Wisconsin using descriptive, clustering, and predictive modeling in SAS.
-  https://github.com/ElishaD17/Data-Analysis-of-COVID-19-Trends-in-Wisconsin
+  [Link to Project Repository]https://github.com/ElishaD17/Data-Analysis-of-COVID-19-Trends-in-Wisconsin
 
 ### Real Estate Valuation in 1970s Boston
 
 - Leveraging Python libraries like Pandas, Numpy, Seaborn, Plotly, Matplotlib, and Scikit-learn to analyze real estate valuation in 1970s Boston.
-  https://github.com/ElishaD17/Real-Estate-Valuation-in-1970s-Boston
+  [Link to Project Repository]https://github.com/ElishaD17/Real-Estate-Valuation-in-1970s-Boston
 
 ## Professional Experience
 **Business Analyst | Webcraft-IT**  
