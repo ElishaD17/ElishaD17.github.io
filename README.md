@@ -51,10 +51,10 @@ While I'm still in the process of honing my data science skills, here are some o
 - Analyzing purchase behavior and performing survival analysis using Minitab & Excel Analytics.
 - [Link to Project Repository](Link to Project Repository)
 
-### Gender Pay Gap Analysis Across Job Titles
+### US Art Products Sales Margin Growth Analysis usingTableau
 
-- Investigating gender-based salary differences across job titles using Tableau.
-- [Link to Project Repository](Link to Project Repository)
+- Analyzing Sales, Margin, and Growth for Art Products in the US using Tableau
+  https://github.com/ElishaD17/US-Art-Products-Sales-Margin-Growth-Analysis-in-Tableau
 
 ### Employee Flight Data Analysis
 
