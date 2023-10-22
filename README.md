@@ -15,6 +15,36 @@ My technical repertoire spans across Python, SQL, R, and SAS, complemented by a 
 
 <h2 style="color: #44AEFB">⚙️ Skills & Technologies</h2>
 <div align="left">
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
+<br>   
+<!-- Icons Resources -->
+<!-- https://devicon.dev/ -->
+<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
+<div align="center">
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+      <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  </a>
+
+  
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  </a>
+  <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
+      <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+      <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
+  </a>
+</div>
 
  **Programming Languages:** Python, SQL, R, SAS
  
@@ -37,7 +67,7 @@ My technical repertoire spans across Python, SQL, R, and SAS, complemented by a 
  **Other Relevant Skills:** Business Requirements Gathering, Communication & Presentation, Team Collaboration, Problem-Solving, Critical Thinking, Web Scraping
  
  **Project Management Tools:** Jira
-
+ 
 </div>
 <br>
 
