@@ -1,7 +1,8 @@
 # Portfolio
 
-Welcome to My Data Science Journey!
  ![e](WhatsApp-Image-2023-10-21-at-1.23.08-PM-_7_.png)
+
+ Welcome to My Data Science Journey!
 ## About Me
 Hello, I'm Elisha Damor, a dedicated data science enthusiast currently pursuing a degree in Business Analytics with a focus on data science. I'm passionate about the potential of data to drive insights and inform decision-making.
 
@@ -101,7 +102,8 @@ While I'm still in the process of honing my data science skills, here are some o
   "Let's you connect with people in the same area"  
   2014 - 2015
 ## Education
-Master of Science (MS) in Business Analytics, Specialization: Data Science**  
+
+**Master of Science (MS) in Business Analytics, Specialization: Data Science**  
 DePaul University | Expected Graduation: November 2024  
 Relevant Coursework: Data Mining and Machine Learning, Statistical Analysis and Modeling, Advanced Python Programming, Data Visualization, Database Management, Business Analytics for Decision-Making  
 Current GPA: 4.0/4.0
