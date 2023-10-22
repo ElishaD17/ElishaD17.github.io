@@ -35,6 +35,7 @@ While I'm still in the process of honing my data science skills, here are some o
 
 - Analyzing customer behavior and the effectiveness of advertisements in an online retail context using SQL queries in R.
 (https://github.com/ElishaD17/Online-Retail-Analysis)
+
 ### US Arrests Clustering: Exploring Crime Rates with K-Means and Hierarchical Techniques
 
 - Utilizing K-Means and Hierarchical clustering techniques to explore crime rates in the United States using R.
@@ -63,7 +64,7 @@ While I'm still in the process of honing my data science skills, here are some o
 ### Decoding Airbnb Pricing Patterns in Chicago
 
 - Using regression analysis and machine learning insights in SAS to understand Airbnb pricing patterns in Chicago.
-- [Link to Project Repository](Link to Project Repository)
+https://github.com/ElishaD17/Decoding-Airbnb-Pricing-Patterns-in-Chicago
 
 ### Data Analysis of COVID-19 Trends in Wisconsin
 
