@@ -125,8 +125,7 @@ My technical repertoire spans across Python, SQL, R, and SAS, complemented by a 
 
  **Customer Sentiment Analysis and Product Recommendation System**
     - **Description:** Sentiment Analysis and Development of a Product Recommendation System for E-commerce Platforms.
-    - **Technologies:** [Specific technologies/tools used can be added here]
-
+    - **Technologies:** python
 </div>
 <br>
 
