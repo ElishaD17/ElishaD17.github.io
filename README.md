@@ -1,7 +1,7 @@
 # Portfolio
 
 Welcome to My Data Science Journey!
-
+ ![e](WhatsApp-Image-2023-10-21-at-1.23.08-PM-_7_.png)
 ## About Me
 Hello, I'm Elisha Damor, a dedicated data science enthusiast currently pursuing a degree in Business Analytics with a focus on data science. I'm passionate about the potential of data to drive insights and inform decision-making.
 
@@ -76,15 +76,30 @@ While I'm still in the process of honing my data science skills, here are some o
 - [Link to Project Repository](Link to Project Repository)
 
 ## Professional Experience
-Business Analyst | Webcraft-IT**  
-July 2017 - November 2022
+**Business Analyst | Webcraft-IT**  
+  ![Webcraft-IT Image](OIP.png)
+  
+  Played a vital role in projects, improving efficiency by 15% and reducing project timelines by 10%.
+  Proficiently enhanced database design and API development, leading to a 20% boost in database efficiency and a 12% improvement in API functionality.
+  Effectively led diverse project teams, fostering a 25% improvement in cross-functional collaboration and a 17% increase in project success rates.
+  Experienced rapid career progression from an Associate Business Analyst to the role of Module Lead within seven months, contributing to a 30% increase in team 
+  performance and staff training.
+  July 2017 - November 2022
 
-**Entrepreneur | Print on Demand/Sustainable Clothing Venture**  
-August 2021 - December 2022
-
-Entrepreneurship | WootOut-website and mobile application( let’s you connect with people in same area) 
-2024
-
+ **Entrepreneur | Print on Demand/Sustainable Clothing Venture**
+  ![Sustainable Clothing Venture Image](1.png)
+  
+  Founded a profitable online sustainable clothing store, reducing overhead by 50% and increasing revenue by 100%. Managed daily operations, supervised and 
+  trained a team of 5 employees with full retention, and executed successful product promotion across various channels. Oversaw the entire product development 
+  process, from research and design to delivery, and expanded the business through strategic pop-up shop placements, achieving break-even in just 1 year and 4 
+  months.
+  August 2021 - December 2022
+  
+ **Entrepreneurship | WootOut-Website and Mobile Application**  
+  ![WootOut Image](2.png)
+  
+  "Let's you connect with people in the same area"  
+  2014 - 2015
 ## Education
 Master of Science (MS) in Business Analytics, Specialization: Data Science**  
 DePaul University | Expected Graduation: November 2024  
