@@ -69,7 +69,7 @@ https://github.com/ElishaD17/Decoding-Airbnb-Pricing-Patterns-in-Chicago
 ### Data Analysis of COVID-19 Trends in Wisconsin
 
 - Analyzing COVID-19 trends in Wisconsin using descriptive, clustering, and predictive modeling in SAS.
-- [Link to Project Repository](Link to Project Repository)
+https://github.com/ElishaD17/Data-Analysis-of-COVID-19-Trends-in-Wisconsin
 
 ### Real Estate Valuation in 1970s Boston
 
