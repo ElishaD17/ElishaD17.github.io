@@ -43,7 +43,7 @@ While I'm still in the process of honing my data science skills, here are some o
 ### Optimizing Citi Bike Stocking: Descriptive, Prescriptive & Predictive Analytics
 
 - Applying descriptive, prescriptive, and predictive analytics in R to maximize bike trips for Citi Bike.
-- [Link to Project Repository](Link to Project Repository)
+(https://github.com/ElishaD17/Optimizing-Citi-Bike-Stocking)
 
 ### Analyzing Purchase Behavior and Survival Analysis
 
