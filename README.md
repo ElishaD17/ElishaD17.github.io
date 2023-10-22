@@ -54,7 +54,7 @@ While I'm still in the process of honing my data science skills, here are some o
 ### US Art Products Sales Margin Growth Analysis usingTableau
 
 - Analyzing Sales, Margin, and Growth for Art Products in the US using Tableau
-  [Link to Project Repository]https://github.com/ElishaD17/US-Art-Products-Sales-Margin-Growth-Analysis-in-Tableau
+  [Link to Project Repository](https://github.com/ElishaD17/US-Art-Products-Sales-Margin-Growth-Analysis-in-Tableau)
 
 ### Employee Flight Data Analysis
 
@@ -69,17 +69,17 @@ While I'm still in the process of honing my data science skills, here are some o
 ### Decoding Airbnb Pricing Patterns in Chicago
 
 - Using regression analysis and machine learning insights in SAS to understand Airbnb pricing patterns in Chicago.
-  [Link to Project Repository]https://github.com/ElishaD17/Decoding-Airbnb-Pricing-Patterns-in-Chicago
+  [Link to Project Repository](https://github.com/ElishaD17/Decoding-Airbnb-Pricing-Patterns-in-Chicago)
 
 ### Data Analysis of COVID-19 Trends in Wisconsin
 
 - Analyzing COVID-19 trends in Wisconsin using descriptive, clustering, and predictive modeling in SAS.
-  [Link to Project Repository]https://github.com/ElishaD17/Data-Analysis-of-COVID-19-Trends-in-Wisconsin
+  [Link to Project Repository](https://github.com/ElishaD17/Data-Analysis-of-COVID-19-Trends-in-Wisconsin)
 
 ### Real Estate Valuation in 1970s Boston
 
 - Leveraging Python libraries like Pandas, Numpy, Seaborn, Plotly, Matplotlib, and Scikit-learn to analyze real estate valuation in 1970s Boston.
-  [Link to Project Repository]https://github.com/ElishaD17/Real-Estate-Valuation-in-1970s-Boston
+  [Link to Project Repository](https://github.com/ElishaD17/Real-Estate-Valuation-in-1970s-Boston)
 
 ## Professional Experience
 **Business Analyst | Webcraft-IT**  
