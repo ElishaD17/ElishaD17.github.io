@@ -12,7 +12,6 @@ My technical repertoire spans across Python, SQL, R, and SAS, complemented by a 
 
 </div>
 <br>
-
 <h2 style="color: #44AEFB">⚙️ Skills & Technologies</h2>
 <div align="left">
 <div align="center" style="display:block;">
