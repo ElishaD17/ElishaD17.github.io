@@ -34,17 +34,17 @@ While I'm still in the process of honing my data science skills, here are some o
 ### Online Retail Analysis: Understanding Consumer Behavior and Advertisement Effectiveness
 
 - Analyzing customer behavior and the effectiveness of advertisements in an online retail context using SQL queries in R.
-(https://github.com/ElishaD17/Online-Retail-Analysis)
+  (https://github.com/ElishaD17/Online-Retail-Analysis)
 
 ### US Arrests Clustering: Exploring Crime Rates with K-Means and Hierarchical Techniques
 
 - Utilizing K-Means and Hierarchical clustering techniques to explore crime rates in the United States using R.
-(https://github.com/ElishaD17/US-Arrests-Analysis)
+  (https://github.com/ElishaD17/US-Arrests-Analysis)
 
 ### Optimizing Citi Bike Stocking: Descriptive, Prescriptive & Predictive Analytics
 
 - Applying descriptive, prescriptive, and predictive analytics in R to maximize bike trips for Citi Bike.
-(https://github.com/ElishaD17/Optimizing-Citi-Bike-Stocking)
+  (https://github.com/ElishaD17/Optimizing-Citi-Bike-Stocking)
 
 ### Analyzing Purchase Behavior and Survival Analysis
 
@@ -64,12 +64,12 @@ While I'm still in the process of honing my data science skills, here are some o
 ### Decoding Airbnb Pricing Patterns in Chicago
 
 - Using regression analysis and machine learning insights in SAS to understand Airbnb pricing patterns in Chicago.
-https://github.com/ElishaD17/Decoding-Airbnb-Pricing-Patterns-in-Chicago
+  https://github.com/ElishaD17/Decoding-Airbnb-Pricing-Patterns-in-Chicago
 
 ### Data Analysis of COVID-19 Trends in Wisconsin
 
 - Analyzing COVID-19 trends in Wisconsin using descriptive, clustering, and predictive modeling in SAS.
-https://github.com/ElishaD17/Data-Analysis-of-COVID-19-Trends-in-Wisconsin
+  https://github.com/ElishaD17/Data-Analysis-of-COVID-19-Trends-in-Wisconsin
 
 ### Real Estate Valuation in 1970s Boston
 
