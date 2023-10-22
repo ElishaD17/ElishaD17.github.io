@@ -38,7 +38,7 @@ While I'm still in the process of honing my data science skills, here are some o
 ### US Arrests Clustering: Exploring Crime Rates with K-Means and Hierarchical Techniques
 
 - Utilizing K-Means and Hierarchical clustering techniques to explore crime rates in the United States using R.
-- [Link to Project Repository](Link to Project Repository)
+(https://github.com/ElishaD17/US-Arrests-Analysis)
 
 ### Optimizing Citi Bike Stocking: Descriptive, Prescriptive & Predictive Analytics
 
