@@ -46,10 +46,10 @@ While I'm still in the process of honing my data science skills, here are some o
 - Applying descriptive, prescriptive, and predictive analytics in R to maximize bike trips for Citi Bike.
   (https://github.com/ElishaD17/Optimizing-Citi-Bike-Stocking)
 
-### Analyzing Salary, Construction Hours, and Mortality Rate Using Regression
+### Analyzing Salary, Construction Hours, and Mortality Rate Using Regression 
 
 - Focuses on regression analysis to understand various factors influencing salary, construction hours, and mortality rates using Minitab & Excel Analytics.
-- [Link to Project Repository](Link to Project Repository)
+  (https://github.com/ElishaD17/Analyzing-Salary-Construction-Hours-and-Mortality-Rate-Using-Regression)
 
 ### US Art Products Sales Margin Growth Analysis usingTableau
 
