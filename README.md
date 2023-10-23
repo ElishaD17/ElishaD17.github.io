@@ -59,7 +59,7 @@ While I'm still in the process of honing my data science skills, here are some o
 ### Employee Flight Data Analysis
 
 - Cleaning and visualizing employee flight data using Power BI.
-- [Link to Project Repository](Link to Project Repository)
+- [Link to Project Repository](https://github.com/ElishaD17/Employee-Flight-Data-Analysis)
 
 ### Gender-Based Salary Analysis 
 - utilizing SQL queries to analyze gender-based salary disparities and then visualizing 
