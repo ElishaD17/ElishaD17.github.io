@@ -29,7 +29,7 @@ While I'm still in the process of honing my data science skills, here are some o
 ### Sentiment Analysis on Amazon Review
 
 - This project automates sentiment analysis by comparing two powerful NLP methods (VADER and RoBERTa Transformers) on Amazon reviews, enabling businesses to quickly and accurately gauge customer sentiment, thereby informing decision-making and enhancing customer experience.
-- [Link to Project Repository](Link to Project Repository)
+- [Link to Project Repository](https://github.com/ElishaD17/Amazon-Review-Sentiment-Analysis-with-VADER-and-RoBERTa)
 
 ### Online Retail Analysis: Understanding Consumer Behavior and Advertisement Effectiveness
 
