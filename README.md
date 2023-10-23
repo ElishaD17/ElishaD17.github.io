@@ -26,9 +26,9 @@ While I'm still in the process of honing my data science skills, here are some o
 
 ## Projects
 
-### Customer Sentiment Analysis and Product Recommendation System for E-commerce Platforms
+### Sentiment Analysis on Amazon Review
 
-- This project aims to develop an intelligent e-commerce platform that utilizes customer sentiment analysis and product recommendation algorithms to enhance customer experience and boost sales.
+- This project automates sentiment analysis by comparing two powerful NLP methods (VADER and RoBERTa Transformers) on Amazon reviews, enabling businesses to quickly and accurately gauge customer sentiment, thereby informing decision-making and enhancing customer experience.
 - [Link to Project Repository](Link to Project Repository)
 
 ### Online Retail Analysis: Understanding Consumer Behavior and Advertisement Effectiveness
