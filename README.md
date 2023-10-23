@@ -64,7 +64,7 @@ While I'm still in the process of honing my data science skills, here are some o
 ### Gender-Based Salary Analysis 
 - utilizing SQL queries to analyze gender-based salary disparities and then visualizing 
  the results through comprehensive dashboards and graphs in Tableau
-- [Link to Project Repository](Link to Project Repository)
+- [Link to Project Repository](https://github.com/ElishaD17/Gender-Based-Salary-Analysis-)
  
 ### Decoding Airbnb Pricing Patterns in Chicago
 
