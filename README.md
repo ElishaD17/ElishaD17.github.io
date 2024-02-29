@@ -30,7 +30,12 @@ While I'm still in the process of honing my data science skills, here are some o
 
 - Analyzing customer behavior and the effectiveness of advertisements in an online retail context using SQL queries in R.
   [Link to Project Repository](https://github.com/ElishaD17/Online-Retail-Analysis)
+  
+### Supply-Chain-dashboard
 
+- A Tableau Public dashboard for monitoring key supply chain metrics
+  [Link to Project Repository](https://github.com/ElishaD17/supply-chain-dashboard)
+  
 ### US Arrests Clustering: Exploring Crime Rates with K-Means and Hierarchical Techniques
 
 - Utilizing K-Means and Hierarchical clustering techniques to explore crime rates in the United States using R.
