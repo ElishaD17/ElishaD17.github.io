@@ -31,6 +31,11 @@ While I'm still in the process of honing my data science skills, here are some o
 - Analyzing customer behavior and the effectiveness of advertisements in an online retail context using SQL queries in R.
   [Link to Project Repository](https://github.com/ElishaD17/Online-Retail-Analysis)
   
+### Intrusion Detection System with ML
+
+- Developed an IDS to classify network traffic using ML techniques and the NSL-KDD dataset. This project utilized Python libraries like Pandas, Numpy, and Scikit-learn, showcasing the effectiveness of the K-Nearest Neighbors model in detecting cyber threats.
+ [Link to Project Repository](https://github.com/ElishaD17/Intrusion-Detection-System-with-Machine-Learning)
+
 ### Supply-Chain-dashboard
 
 - A Tableau Public dashboard for monitoring key supply chain metrics
