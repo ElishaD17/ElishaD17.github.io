@@ -118,7 +118,7 @@ DePaul University | Expected Graduation: November 2024
 Relevant Coursework: Data Mining and Machine Learning, Statistical Analysis and Modeling, Advanced Python Programming, Data Visualization, Database Management, Business Analytics for Decision-Making  
 Current GPA: 4.0/4.0
 
-**Bachelor of Business Administration (BBA)**  
+**Master of Science in Business Admisnistration**  
 Devi Ahilya Vishwa Vidhyalaya | 2014-2017  
 Relevant Coursework: Statistics, Management  
 GPA: 3.6/4.0
