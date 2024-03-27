@@ -30,6 +30,11 @@ While I'm still in the process of honing my data science skills, here are some o
 
 - Analyzing customer behavior and the effectiveness of advertisements in an online retail context using SQL queries in R.
   [Link to Project Repository](https://github.com/ElishaD17/Online-Retail-Analysis)
+
+ ### Predictive Analytics for Breast Cancer Classification
+
+- This project harnesses predictive analytics to enhance breast cancer classification using the Coimbra data set. By analyzing clinical and biochemical markers, our aim is to develop a non-invasive, cost-effective diagnostic tool that can be widely used for early detection, improving patient outcomes and healthcare efficiency.
+  [Link to Project Repository](https://github.com/ElishaD17/-Predictive-Analytics-for-Breast-Cancer-Classification)
   
 ### Intrusion Detection System with ML
 
