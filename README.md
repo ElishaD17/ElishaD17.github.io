@@ -159,6 +159,6 @@ I'm always open to discussions, collaborations, and learning opportunities. Feel
 - Portfolio: [elishad17.github.io](https://elishad17.github.io)
 - GitHub: [github.com/ElishaD17](https://github.com/ElishaD17)
 - Mobile: +18728106708
-- LinkedIn:(https://www.linkedin.com/in/elisha-damor-573a6175)
+- LinkedIn:(https://www.linkedin.com/in/elishadamor/)
 
 Let's connect and explore the exciting journey of data science together!
