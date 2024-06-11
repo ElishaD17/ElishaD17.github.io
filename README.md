@@ -31,7 +31,7 @@ While I'm still in the process of honing my data science skills, here are some o
 - The Amazon Product Recommendation System utilizes advanced machine learning techniques to predict user preferences and recommend products. This system leverages user segmentation and sophisticated ad targeting algorithms to boost content virality and refine product targeting through real-time analytics.
   [Link to Project Repository](https://github.com/ElishaD17/Amazon-Product-Recommendation-System)
   
-### Integrated Business Analytics for E-Commerce Clothing Retailer
+### E-Commerce Retail Analytics
 
 - Optimize inventory management, forecast fashion trends, and enhance real-time decision-making for an e-commerce clothing retailer. Utilizing a comprehensive dataset of 30,000 products, the project leverages advanced data analytics technologies including R, Excel, and Apache Spark to analyze large-scale data effectively.
   [Link to Project Repository](https://github.com/ElishaD17/Integrated-Business-Analytics-for-E-Commerce-Clothing-Retailer)
