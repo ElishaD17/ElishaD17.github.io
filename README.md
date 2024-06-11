@@ -26,6 +26,31 @@ While I'm still in the process of honing my data science skills, here are some o
 
 ## Projects
 
+### Amazon Product Recommendation System: Enhances user engagement and improve product targeting on Amazon
+
+- The Amazon Product Recommendation System utilizes advanced machine learning techniques to predict user preferences and recommend products. This system leverages user segmentation and sophisticated ad targeting algorithms to boost content virality and refine product targeting through real-time analytics.
+  [Link to Project Repository](https://github.com/ElishaD17/Amazon-Product-Recommendation-System)
+  
+### Integrated Business Analytics for E-Commerce Clothing Retailer
+
+- Optimize inventory management, forecast fashion trends, and enhance real-time decision-making for an e-commerce clothing retailer. Utilizing a comprehensive dataset of 30,000 products, the project leverages advanced data analytics technologies including R, Excel, and Apache Spark to analyze large-scale data effectively.
+  [Link to Project Repository](https://github.com/ElishaD17/Integrated-Business-Analytics-for-E-Commerce-Clothing-Retailer)
+
+### Market Basket Analysis with Churn Prediction
+
+- Market Basket Analysis with churn prediction to provide comprehensive insights into customer purchasing behaviors and retention patterns. Utilizing SQL Server, SSIS, and SAS, the project identifies key purchasing patterns and customer behaviors that aid in optimizing product placement and enhancing cross-selling opportunities.
+  [Link to Project Repository](https://github.com/ElishaD17/Market-Basket-Analysis-with-Churn-Prediction)
+
+### Tweet Sentiment Classification
+
+- Applied natural language processing (NLP) techniques to classify tweets as positive, negative, or neutral. This classification aids businesses and developers in understanding public opinion and tailoring content accordingly.
+  [Link to Project Repository](https://github.com/ElishaD17/-Tweet-Classification-Sentiment-Analysis)
+
+### Advanced Stock Analysis Toolkit
+
+- The Advanced Stock Analysis Toolkit employs sophisticated machine learning models, including LSTM networks, to predict stock price trends and movements. This project is designed to enhance financial analysis accuracy and aid in strategic investment decision-making. It leverages historical stock data from Yahoo Finance to train predictive models, aiming to provide real-time analytics and insights.
+  [Link to Project Repository](https://github.com/ElishaD17/Advanced-Stock-Analysis-Toolkit)
+
 ### Online Retail Analysis: Understanding Consumer Behavior and Advertisement Effectiveness
 
 - Analyzing customer behavior and the effectiveness of advertisements in an online retail context using SQL queries in R.
