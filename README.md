@@ -22,30 +22,35 @@ While I'm still in the process of honing my data science skills, here are some o
 
 ## Projects
 
-### Amazon Product Recommendation System: Enhances user engagement and improve product targeting on Amazon
+### Amazon Product Recommender System
 
-- The Amazon Product Recommendation System utilizes advanced machine learning techniques to predict user preferences and recommend products. This system leverages user segmentation and sophisticated ad targeting algorithms to boost content virality and refine product targeting through real-time analytics.
+- Recommend products by employing collaborative filtering techniques. This system analyzes user preferences and predicts products that users are likely to purchase, enhancing user engagement and personalization. 
   [Link to Project Repository](https://github.com/ElishaD17/Amazon-Product-Recommendation-System)
+
+### Customer Segmentation, Cohort & RFM Analysis with K-Means Clustering
+
+- Analyzed customer transaction data to segment customers and optimize sales strategies using RFM analysis and K-Means clustering, and conducted cohort analysis to track metrics like retention and churn.
+  [Link to Project Repository]()  
   
-### E-Commerce Retail Analytics
+### Google Cloud Employee Churn Prediction Using Machine Learning
 
-- Optimize inventory management, forecast fashion trends, and enhance real-time decision-making for an e-commerce clothing retailer. Utilizing a comprehensive dataset of 30,000 products, the project leverages advanced data analytics technologies including R, Excel, and Apache Spark to analyze large-scale data effectively.
-  [Link to Project Repository](https://github.com/ElishaD17/Integrated-Business-Analytics-for-E-Commerce-Clothing-Retailer)
+- Identify and predict employee churn within organizations using automated machine learning techniques. Integrates Google Cloud's BigQuery for robust data management and Looker Studio for dynamic visualization. 
+  [Link to Project Repository]()
 
-### Market Basket Analysis with Churn Prediction
+### Toman Bike Share Price Analysis Using Data Analytics
 
-- Market Basket Analysis with churn prediction to provide comprehensive insights into customer purchasing behaviors and retention patterns. Utilizing SQL Server, SSIS, and SAS, the project identifies key purchasing patterns and customer behaviors that aid in optimizing product placement and enhancing cross-selling opportunities.
-  [Link to Project Repository](https://github.com/ElishaD17/Market-Basket-Analysis-with-Churn-Prediction)
+- Analyze bike share usage data to determine the feasibility of a price increase. Utilizes SQL for database management and querying, and Power BI for dashboard creation and data visualization. making strategic pricing recommendations.
+  [Link to Project Repository]()
 
 ### Tweet Sentiment Classification
 
 - Applied natural language processing (NLP) techniques to classify tweets as positive, negative, or neutral. This classification aids businesses and developers in understanding public opinion and tailoring content accordingly.
   [Link to Project Repository](https://github.com/ElishaD17/-Tweet-Classification-Sentiment-Analysis)
 
-### Advanced Stock Analysis Toolkit
+### Stock Market Analysis & Prediction with LGBM
 
-- The Advanced Stock Analysis Toolkit employs sophisticated machine learning models, including LSTM networks, to predict stock price trends and movements. This project is designed to enhance financial analysis accuracy and aid in strategic investment decision-making. It leverages historical stock data from Yahoo Finance to train predictive models, aiming to provide real-time analytics and insights.
-  [Link to Project Repository](https://github.com/ElishaD17/Advanced-Stock-Analysis-Toolkit)
+- Analyze and predict stock prices using historical data and machine learning techniques. Utilize LightGBM for model building and Plotly for interactive data visualization.
+  [Link to Project Repository]()
 
 ### Online Retail Analysis: Understanding Consumer Behavior and Advertisement Effectiveness
 
