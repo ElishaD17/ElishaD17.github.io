@@ -27,10 +27,9 @@ While I'm still in the process of honing my data science skills, here are some o
 - Recommend products by employing collaborative filtering techniques. This system analyzes user preferences and predicts products that users are likely to purchase, enhancing user engagement and personalization. 
   [Link to Project Repository](https://github.com/ElishaD17/Amazon-Product-Recommendation-System)
 
-### Customer Segmentation, Cohort & RFM Analysis with K-Means Clustering
-
-- Analyzed customer transaction data to segment customers and optimize sales strategies using RFM analysis and K-Means clustering, and conducted cohort analysis to track metrics like retention and churn.
-  [Link to Project Repository]()  
+### Customer Segmentation using K-Means Clustering
+- Customer segmentation using K-Means clustering. The goal is to group customers into distinct segments based on their spending habits and annual income. The dataset used for this analysis includes customer demographic and spending data.
+  [Link to Project Repository](https://github.com/ElishaD17/Customer-Segmentation-Cohort-RFM-Analysis-with-K-Means-Clustering/tree/main)  
   
 ### Google Cloud Employee Churn Prediction Using Machine Learning
 
