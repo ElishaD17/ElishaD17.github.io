@@ -29,17 +29,17 @@ While I'm still in the process of honing my data science skills, here are some o
 
 ### Customer Segmentation using K-Means Clustering
 - Customer segmentation using K-Means clustering. The goal is to group customers into distinct segments based on their spending habits and annual income. The dataset used for this analysis includes customer demographic and spending data.
-  [Link to Project Repository](https://github.com/ElishaD17/Customer-Segmentation-Cohort-RFM-Analysis-with-K-Means-Clustering/tree/main)  
+  [Link to Project Repository](https://github.com/ElishaD17/Customer-Segmentation-Cohort-RFM-Analysis-with-K-Means-Clustering)  
   
 ### Google Cloud Employee Churn Prediction Using Machine Learning
 
 - Identify and predict employee churn within organizations using automated machine learning techniques. Integrates Google Cloud's BigQuery for robust data management and Looker Studio for dynamic visualization. 
-  [Link to Project Repository]()
+  [Link to Project Repository](https://github.com/ElishaD17/Google-Cloud-Employee-Churn-Prediction-)
 
 ### Toman Bike Share Price Analysis Using Data Analytics
 
 - Analyze bike share usage data to determine the feasibility of a price increase. Utilizes SQL for database management and querying, and Power BI for dashboard creation and data visualization. making strategic pricing recommendations.
-  [Link to Project Repository]()
+  [Link to Project Repository](https://github.com/ElishaD17/Toman-Bike-Share-Price-Analysis-Using-Data-Analytics)
 
 ### Tweet Sentiment Classification
 
@@ -49,7 +49,7 @@ While I'm still in the process of honing my data science skills, here are some o
 ### Stock Market Analysis & Prediction with LGBM
 
 - Analyze and predict stock prices using historical data and machine learning techniques. Utilize LightGBM for model building and Plotly for interactive data visualization.
-  [Link to Project Repository]()
+  [Link to Project Repository](https://github.com/ElishaD17/Stock-Market-Analysis-Prediction-with-LGBM)
 
 ### Online Retail Analysis: Understanding Consumer Behavior and Advertisement Effectiveness
 
