@@ -36,6 +36,11 @@ While I'm still in the process of honing my data science skills, here are some o
 - Identify and predict employee churn within organizations using automated machine learning techniques. Integrates Google Cloud's BigQuery for robust data management and Looker Studio for dynamic visualization. 
   [Link to Project Repository](https://github.com/ElishaD17/Google-Cloud-Employee-Churn-Prediction-)
 
+### E-commerce Sales Analysis Dashboard
+
+- a dynamic Excel dashboard designed to analyze e-commerce sales data. The dashboard provides insights into various KPI , sales metrics, profit margins, and category-wise performance, enabling effective decision-making.
+  [Link to Project Repository](https://github.com/ElishaD17/Ecommerce-Sales-Analysis-Dashboard)
+  
 ### Toman Bike Share Price Analysis Using Data Analytics
 
 - Analyze bike share usage data to determine the feasibility of a price increase. Utilizes SQL for database management and querying, and Power BI for dashboard creation and data visualization. making strategic pricing recommendations.
