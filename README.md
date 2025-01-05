@@ -130,7 +130,6 @@ While I'm still in the process of honing my data science skills, here are some o
   Effectively led diverse project teams, fostering a 25% improvement in cross-functional collaboration and a 17% increase in project success rates.
   Experienced rapid career progression from an Associate Business Analyst to the role of Module Lead within seven months, contributing to a 30% increase in team 
   performance and staff training.
-  July 2017 - November 2022
 
  **Entrepreneur | Print on Demand/Sustainable Clothing Venture**
   ![Sustainable Clothing Venture Image](1.png)
