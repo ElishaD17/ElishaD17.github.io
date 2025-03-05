@@ -122,7 +122,20 @@ While I'm still in the process of honing my data science skills, here are some o
   [Link to Project Repository](https://github.com/ElishaD17/Real-Estate-Valuation-in-1970s-Boston)
 
 ## Professional Experience
-**Business Analyst | Webcraft-IT**  
+
+**Business Data Analyst | Dovetail Health**
+Played a vital role in healthcare data analytics, improving data accuracy by 20% and reducing claims processing time by 15%.
+Proficiently developed Power BI dashboards for revenue cycle management, leading to a 30% boost in financial reporting efficiency.
+Effectively streamlined SQL-driven data workflows, reducing manual reporting time by 40% and enhancing data processing speed.
+Experienced rapid career progression, leading cross-functional collaborations, fostering a 25% improvement in stakeholder alignment and decision-making speed.
+
+**Business Data Analyst |Wadia Techno-Engineering**
+Played a vital role in engineering project analytics, improving reporting accuracy by 18% and reducing data discrepancies by 22%.
+Proficiently designed SQL-driven analytics for resource allocation, leading to a 20% improvement in cost tracking and a 12% reduction in project overruns.
+Effectively implemented Power BI solutions, enabling real-time monitoring of infrastructure projects, cutting down delays by 15%.
+Experienced rapid career progression, leading cross-team collaborations, fostering a 28% improvement in data-sharing efficiency between engineering and finance teams.
+
+**Business Data Analyst | Webcraft-IT**  
   ![Webcraft-IT Image](OIP.png)
   
   Played a vital role in projects, improving efficiency by 15% and reducing project timelines by 10%.
@@ -150,7 +163,7 @@ While I'm still in the process of honing my data science skills, here are some o
 **Master of Science (MS) in Business Analytics, Specialization: Data Science**  
 DePaul University | Expected Graduation: November 2024  
 Relevant Coursework: Data Mining and Machine Learning, Statistical Analysis and Modeling, Advanced Python Programming, Data Visualization, Database Management, Business Analytics for Decision-Making  
-Current GPA: 4.0/4.0
+Current GPA: 3.97/4.0
 
 **Master of Science in Business Administration**  
 Devi Ahilya Vishwa Vidhyalaya | 2014-2017  
